@@ -1,0 +1,16 @@
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Arduino / Ameba build outputs
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
